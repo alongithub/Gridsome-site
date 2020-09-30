@@ -1,15 +1,11 @@
 
-# Default starter for Gridsome
+# 启动
 
-This is the project you get when you run `gridsome create new-project`.
+`npm run develop`
 
-### 1. Install Gridsome CLI tool if you don't have
+# 打包
 
-`npm install --global @gridsome/cli`
+`npm run build`
 
-### 2. Create a Gridsome project
+项目参考博客[静态网页生成](https://alongithub.github.io/2020/09/29/Gridsome-%E9%9D%99%E6%80%81%E7%BD%91%E9%A1%B5%E7%94%9F%E6%88%90/)
 
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
